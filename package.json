@@ -1,0 +1,9 @@
+{
+  "name": "chatrooms",
+  "version": "0.0.1",
+  "description": "聊天室功能",
+  "dependencies": {
+    "socket.io" : "~1.4.5",
+    "mime" : "~1.2.7"
+  }
+}
